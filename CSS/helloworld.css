@@ -1,6 +1,25 @@
 p{
-    font-size: 300;
+    
+    background-color: red;
+    font-size: 300%;
     color: blue;
-    flex:auto;
-    align: center;
+
+
+
+    padding: 40px 8px 3px 100px; /* Top right bottom left*/
+
+
+
+
+    border: 10px black ridge;  
+    border-radius: 10px;
+
+
+
+    outline-style: solid;
+    outline-color: yellow;
+    outline-width: 50px;
+
+
+    margin: 50px;
 }
